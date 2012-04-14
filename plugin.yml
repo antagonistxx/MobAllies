@@ -1,0 +1,15 @@
+name: MobAllies
+main: com.github.antagonistxx.MobAllies.MobAllies
+version: 0.0.1
+
+commands:
+  moballies:
+    description: Reference command for MobAllies.
+    aliases: [ma]
+permissions:
+  moballies.enable:
+    description: Enable MobAllies Globally
+  moballies.disable:
+    description: Disable MobAllies Globally
+  moballies.help:
+    description: MobAllies Help Menu
